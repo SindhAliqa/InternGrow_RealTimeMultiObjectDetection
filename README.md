@@ -1,2 +1,12 @@
-# InternGrow_RealTimeMultiObjectDetection
-Real-Time Multi-Object Detection &amp; Analytics using YOLO with automated object counting across a defined boundary line.
+# Real-Time Multi-Object Detection & Analytics
+
+## Features
+- Real-time webcam object detection
+- YOLOv8 object tracking
+- Automated counting line
+- Counts people and supported objects crossing the line
+
+## Technologies Used
+- Python
+- OpenCV
+- Ultralytics YOLOv8
